@@ -1,0 +1,1 @@
+ERROR: Crumb tray full. The toaster has been saving them. It will not say why.
